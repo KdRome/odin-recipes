@@ -5,6 +5,8 @@ Hope it doesnt look too awful :).
 
 Structure for recipe
 
+<!-- add recipe name -->
+
 <!-- add image of finished dish-->
 
 <!-- add description heading-->
